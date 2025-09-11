@@ -6,3 +6,5 @@ opencv-python==4.12.0.88
 onnxruntime==1.22.1
 tflite-runtime==2.14.0
 psutil==7.0.0
+
+./packages/hailort-4.21.0-cp311-cp311-linux_x86_64.whl
