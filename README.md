@@ -1,3 +1,11 @@
+# RoadEdge
+
+> Hailo AI SDK for edge computing
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem. Forked from [`Avalue-Technology/edge.ai.x86.hailo.sdk`](https://github.com/Avalue-Technology/edge.ai.x86.hailo.sdk).
+
+---
+
 # edge.ai.x86.hailo.sdk
  - Hailo runtime sdk with HailoRT v4.21.0 [Reference](https://hailo.ai/developer-zone/documentation/hailort-v4-21-0/)
  
